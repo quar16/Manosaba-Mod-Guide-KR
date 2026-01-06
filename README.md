@@ -22,7 +22,7 @@
 1. [소개 (Introduction)](./01_Introduction.md)
     * 사용자 분들께
     * 시나리오를 쓰고 싶은 분들께
-2. [설치 및 제거 (Installation)](./02_Installation.md)
+2. [설치 및 준비 (Installation)](./02_Installation.md)
 3. [빠르게 창작 시작하기 (Quick Start)](./03_QuickStart.md)
     * 새 시나리오 만들기 (템플릿/작업공간)
     * 간단한 대화 및 마녀재판 작성
